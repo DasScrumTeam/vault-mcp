@@ -405,6 +405,11 @@ ruff check --fix
 
 For detailed contribution guidelines, development setup, testing procedures, and code standards, see **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
+## Future
+
+- Rename project: vault-mcp is a RAG server, name should reflect that
+- Increase default chunk_size 4x (current 1024 produces many small, low-value chunks)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
