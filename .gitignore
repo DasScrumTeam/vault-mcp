@@ -230,6 +230,9 @@ __marimo__/
 # Binary files
 *.bin
 
+# User-specific app config (use app.toml.example as template)
+config/app.toml
+
 # Chroma database directory and files
 chroma_db/
 chroma.sqlite3
